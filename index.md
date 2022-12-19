@@ -29,19 +29,19 @@
 - [Linux Kernel](https://www.kernel.org)
 - [NetBSD](https://www.netbsd.org)
 
-## PlannedSchedule
+## Planned Schedule
 
 |Week|Reading&nbsp;Due Mon&nbsp;11:59PM |Tuesday|Thursday|Due Friday 5PM|
 |-----|-----|-----|---|---|
-| 16 Jan	| Ch. 1-2 | Overview / [Syllabus](syllabus) | Hardware / [Powers](powers)
+| 16 Jan	| Ch. 1-2 | Overview / [Syllabus](syllabus) | Machine org / [Powers](powers)
 | 23 Jan	| Ch. 3-6	| Processes	| Processes | [Project 1 Due](project1)
 | 30 Jan	| Ch. 7-11	| Scheduling	| Scheduling	| [Project 2 Due](project2)
-| 6 Feb	| Ch. 25-29	| Threads	| Locks and Data Structures | [Watch Nova: Fractals](https://www.youtube.com/watch?v=d0Exnv8Ym7s)
-| 13 Feb		| Ch. 30	   | Condition Variables | CV Contd / [Examples](https://github.com/dthain/opsys-sp22/tree/main/examples) | [Homework A Due](homework-scheduling)
-| 20 Feb	| Ch. 31-34	| Catch Up | Semaphores / [Examples](https://github.com/dthain/opsys-sp22/tree/main/examples) | [Project 3 Due](project3)
-| 27 Feb	| Ch. 13-16	| Deadlock	| Memory Overview	| [Homework B Due](homework-sync)
-| 6 Mar	| --	      | Segmentation | [Midterm Exam](midterm)	|
-| 13 Mar		| - | Spring Break | Spring Break |
+| 6 Feb	| Ch. 25-29	| Concurrency: Threads	| Concurrency: Locks and Data Structures | [Watch Nova: Fractals](https://www.youtube.com/watch?v=d0Exnv8Ym7s)
+| 13 Feb		| Ch. 30	   | Concurrency: Condition Variables | Concurrency: Semaphores |  [Homework A Due](homework-scheduling)
+| 20 Feb	| Ch. 31-34	| Concurrency: Deadlock | Slack / [Examples](https://github.com/dthain/opsys-sp22/tree/main/examples) | [Project 3 Due](project3)
+| 27 Feb	| Ch. 13-16	| Memory	| Memory 	| [Homework B Due](homework-sync)
+| 6 Mar	| -- | Segmentation | [Midterm Exam](midterm)	|
+| 13 Mar		| -- | Spring Break | Spring Break |
 | 20 Mar	| Ch. 17-19	| Paging Mechanisms | TLBs / Performance	| 
 | 27 Mar	| Ch. 20-22	| Multi-Level Paging | Swapping	| [Project 4 Due](project4)
 | 3 Apr (Holy Week)	| Ch. 35-37 + 44	| I/O Devices / ([Mouse](https://github.com/dthain/basekernel/blob/master/kernel/mouse.c) / [Disk](https://github.com/dthain/basekernel/blob/master/kernel/ata.c))  | HDD [Datasheet](https://www.seagate.com/www-content/datasheets/pdfs/desktop-hdd-8tbDS1770-9-1603US-en_US.pdf) / SSD [Datasheet](https://www.micron.com/-/media/client/global/documents/products/data-sheet/ssd/m550_m2_2280_ssd.pdf) | 
@@ -49,6 +49,6 @@
 | 17 Apr	| Ch. 40-42	| FS Implementation	| FS Structure |
 | 24 Apr	| Ch. 53-55	| Security | Security |
 | 1 May         | - | [Project 6 Due](project6) | No Class |
-| 8 May		| [Final Exam Monday 10:30](final) | - | - |
+| 8 May		| [Final Exam TBA (final) | - | - |
 
 
