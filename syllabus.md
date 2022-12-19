@@ -1,4 +1,4 @@
-# CSE 34341-01 Operating Systems Principles
+# CSE 34341 Operating Systems Principles
 
 Spring 2023: Silicon Valley Semester
 
@@ -55,13 +55,13 @@ Canvas will be used as the class gradebook.
 
 ## Reading Assignments
 
-The textbook provides the foundation of the course, and it will be important for you to absorb it thoroughly.  To encourage regular reading and preparation for class, **you are required to turn in summary notes on the assigned readings each Monday of the semester by 11:59PM Pacific Time**.  (A form will be provided on the course web page.)  The easiest way to do this is just take notes on paper, and then snap a few photos for upload.  If you prefer to type them out, then attach a PDF instead.
+The textbook provides the foundation of the course, and it will be important for you to absorb it thoroughly.  To encourage regular reading and preparation for class, **you are required to turn in summary notes on the assigned readings each Monday of the semester by 11:59PM Pacific Time**. Notes will not be required on the MOnday of spring break or Easter Monday.  You will upload these notes in Canvas.  The easiest way to do this is just take notes on paper, and then snap a few photos for upload.  If you prefer to type them out, then attach a PDF instead.
 
 Your notes can be organized in whatever way is appropriate to that chapter and is useful for you. Good things to include may be an outline of the chapter, definition of key terms, a sketch of the systems or data structures being discussed, that sort of thing.  **Along with your notes, you should submit one thoughtful question you would like to discuss that week**. The prof will try to answer a few highlighted questions each week, and steer the lecture to address them.
 
-Grading on notes will be very simple: either one, one-half, or zero points. There will be fourteen opportunities to earn a total of twelve points, so you may miss up to two without penalty.  The first round of notes are due on **Thursday, January 13th**, and then every **Monday at 11:59PM** thereafter.  Late submissions will earn a maximum of one-half point.
+Grading on notes will be very simple: either one, one-half, or zero points. There will be thireen opportunities to earn a total of twelve points, so you may miss one without penalty.  The first round of notes are due on **Monday, January 23rd**, and then every **Monday at 11:59PM** thereafter.  Late submissions will earn a maximum of one-half point.
 
-## Attendance and Classroom Recording
+## Attendance
 
 To succeed in this class, you should attend and actively participate in all the scheduled lectures. You will get the most out of class if you have done the required readings in advance and actively take notes during class.  Re-articulating, through writing, of the concepts in lecture and readings is essential to your "fixing" the material in memory.
 
