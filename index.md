@@ -48,7 +48,7 @@
 | 10 Apr (Easter week) 	| Ch. 38-39	| RAID	| FS Abstraction | [Project 5 Due](project5)
 | 17 Apr	| Ch. 40-42	| FS Implementation	| FS Structure |
 | 24 Apr	| Ch. 53-55	| Security | Security |
-| 1 May         | - | [Project 6 Due](project6) | No Class |
+| 1 May   | - | Last class day! | -- | [Project 6 Due](project6) | No
 | 8 May		| [Final Exam TBA (final) | - | - |
 
 
