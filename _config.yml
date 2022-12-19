@@ -1,3 +1,5 @@
-theme: architect
+theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: CSE 34341 Spring 2023 homepage
 description: Fabulous website for Operating Systems
