@@ -9,7 +9,7 @@
 
 ## Quick Links
 
-- [Syllabus](syllabus)
+- [Syllabus](syllabus.md)
 - [Submit Reading Notes on Canvas](https://canvas.nd.edu/courses/64520/assignments)
 - [General Instructions for Assignments](general)
 - [Gradebook on Canvas](https://canvas.nd.edu/courses/64520gradebook)
