@@ -11,7 +11,7 @@
 
 - [Syllabus](syllabus.md)
 - [Submit Reading Notes on Canvas](https://canvas.nd.edu/courses/64520/assignments)
-- [General Instructions for Assignments](general)
+- [General Instructions for Assignments](general.md)
 - [Gradebook on Canvas](https://canvas.nd.edu/courses/64520gradebook)
 
 ## Online Textbook
