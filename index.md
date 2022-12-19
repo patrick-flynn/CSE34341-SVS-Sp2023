@@ -1,8 +1,3 @@
----
-layout: default
-title: CSE 34341 - Operating Systems Principles
----
-
 ## CSE 34341 - Operating Systems Principles
 
 - Spring 2023 - Silicon Valley Semester
