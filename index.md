@@ -4,7 +4,9 @@
 - Prof. Patrick Flynn (flynn@nd.edu)
 - Grad TA: Lu Niu (lniu@nd.edu)
 
-## Office Hours (Starting Jan 17th): TBA
+## Office Hours (Starting Jan 17th)
+- PF: T & R 3:30-whenever, and by appointment
+- Lu: TBA
 
 
 ## Quick Links
