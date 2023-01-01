@@ -209,11 +209,11 @@ Your grade will be based on:
 - Single file copy: correctness. (20%)
 - Recursive directory copy: correctness. (40%)
 - Correct handling of all error conditions. (30%)
-- Good coding style, such as clear formatting, sensible variable names, and useful comments. (10%)
+- Good coding style, such as clear formatting, sensible variable names, and useful comments; carefully following submission instructions (10%)
 
 ## Turning In
 
-This assignment is due on Friday, January 27th at 5:00PM Pacific time.
+This assignment is due on **Friday, January 27th at 5:00PM Pacific time**.
 
 Please turn in only the source code files `filecopy.c` and `treecopy.c` and a `Makefile` that builds both executables. Do not submit executables or other files, since we will build your code from source.
 
