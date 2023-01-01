@@ -4,7 +4,7 @@
 ## Build and test your code on the student machines.
 
 Make sure that your program builds and runs correctly on the CSE
-student servers (`studentXX.cse.nd.edu`, for `XX` in {`05`, `10`, `11`, `12`, `13`)
+student servers (`studentXX.cse.nd.edu`, for `XX` in {`05`, `10`, `11`, `12`, `13`})
 which run the RHEL8 operating system.
 The TA will only test your program on
 those machines, and that's where your grade will be determined.
