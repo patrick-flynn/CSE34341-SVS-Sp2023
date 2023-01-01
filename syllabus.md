@@ -1,10 +1,15 @@
-# CSE 34341 Operating Systems Principles
+# Syllabus
+
+## CSE 34341 Operating Systems Principles
 
 Spring 2023: Silicon Valley Semester
 
 Instructor: Prof. Patrick Flynn (flynn@nd.edu); office hours TBA
 
 GTA: Lu Niu (lniu@nd.edu); office hours TBA
+
+
+Web site: [https://github.com/patrick-flynn/CSE34341-SVS-Sp2023](https://github.com/patrick-flynn/CSE34341-SVS-Sp2023)
 
 ## Overview
 
@@ -40,12 +45,10 @@ The course materials will test each student's achievement of these goals at seve
 ## Course Communications
 
 The course web page contains the schedule, assignments, and other critical information:
+[link](https://github.com/patrick-flynn/CSE34341-SVS-Sp2023)
 
-[http://patrick-flynn.github.io/CSE34341-Spring2023]([http://dthain.github.io/opsys-sp22](http://patrick-flynn.github.io/CSE34341-Spring2023))
-
-Canvas will be used as the class gradebook.
-
-[https://canvas.nd.edu/courses/64520](https://canvas.nd.edu/courses/64520)
+Canvas will be used as the class gradebook:
+[link](https://canvas.nd.edu/courses/64520)
 
 ## Textbooks
 
