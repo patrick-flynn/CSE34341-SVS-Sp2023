@@ -14,11 +14,11 @@
 - [Syllabus](syllabus.md)
 - [Submit Reading Notes on Canvas](https://canvas.nd.edu/courses/64520/assignments)
 - [General Instructions for Assignments](general.md)
-- [Gradebook on Canvas](https://canvas.nd.edu/courses/64520gradebook)
+- [Gradebook on Canvas](https://canvas.nd.edu/courses/64520/gradebook)
 
 ## Online Textbook
 
-- Required: [Operating Systems in Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP), Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Arpaci-Dusseau Books, March, 2018 (Version 1.00)
+- Required: [Operating Systems in Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP), Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Arpaci-Dusseau Books.
 - Suggested: The C Programming Language, Brian Kernighan and Dennis Ritchie, Prentice Hall, 1988.
 
 ## Some Open Source OS Kernels
