@@ -1,5 +1,7 @@
 # CSE 30341 - Metric Powers Reference
 
+Source: Prof. Thain
+
 ## Metric Computations
 
 In this course, we will perform a lot of back-of-the-envelope computations about the sizes of memory spaces, storage devices, and related them to sizes of integers needed to address them. You should be able to perform these conversions quickly and express the result as a compact metric value (e.g. 16MB)
@@ -34,8 +36,16 @@ You already know that in the metric (SI) system, the prefix Kilo (K) usually mea
 2^60 = Exa
 ```
 
+Here's an equivalent **rule-of-thumb** that Prof. Flynn likes: _ten bits is a kilo_. That is, you can give a unique 10-bit number to 1024 different things.  You could approximately say that 10 bits in base 2 is about as powerful at addressing as 3 zeros in base 10 is.
+
 Note: Multiplying or dividing by 2^10 (Kilo) moves up or down by one metric prefix. So, Kilo*Kilo=Mega and Tera/Kilo=Giga.
 A computer memory is conceptually organized as an array of words, such that each word can be individually written. (Most commonly, each word is one byte, although other sizes are possible.) To select any one word from that array, we must have a integer with enough bits so that it can count as high as the number of words in the array. An integer used to locate a word in memory is known as an address or a pointer.
+
+Adapting the rule-of-thumb: 20 bits gives you a mega of different addresses. Now 20-bit addresses aren't common... but 16-bit, 32-bit, and 64-bit addresses are, or were.
+
++ 16-bits is 10+6 bits. 10 bits addresses a kilo, and 6 bits addresses 64 - **so 16 bits addresses a kilo\*64** thus, 64 kBytes.
++ 32 bits is 30+2 bits. 30 bits is (kilo\*kilo\*kilo = kilo\*mega =) **giga**, and 2 bits is 4 - **so 32 bits addresses 4 Gigabytes**.
++ 64 bits is 4 + 60, so 16 of whatever 2^60 addresses... **16 exabytes**
 
 ## Examples
 
