@@ -25,7 +25,7 @@ A good understanding of OS internals offers benefits, whether you intend to work
 + By understanding how an OS works, and making good/efficient use of its abstractions (files, memory), *you will be able to write better software*.
 + *The techniques that you learn here will have applications in every kind of computer system*. The traditional problems that occur in operating systems (like scheduling, synchronization, and resource management) also occur in all sorts of other hardware/software systems, ranging from small embedded computers to large scale cloud computing systems. 
 
-The concepts presented in class will be explored through **six intensive programming assignments**. The assignments will make use of the C programming language, which the universal language for implementing and accessing operating systems at their lowest level. The projects will give you ample practice with manipulation of pointers, managment of memory, invoking of system services, and dealing with error conditions. The prof and the GTA will offer some technical guidance on these matters --- but **you should expect to spend significant time debugging, consulting reference materials, and revising the projects until they work properly**. There is no way around this requirement, so please budget the time needed to master the assignments.
+The concepts presented in class will be explored through **six intensive programming assignments**. The assignments will make use of the C programming language, which the universal language for implementing and accessing operating systems at their lowest level. The projects will give you ample practice with manipulation of pointers, management of memory, invoking of system services, and dealing with error conditions. The prof and the GTA will offer some technical guidance on these matters --- but **you should expect to spend significant time debugging, consulting reference materials, and revising the projects until they work properly**. There is no way around this requirement, so please budget the time needed to master the assignments.
 
 The learning goals for students in this course are:
 - Students will understand the abstractions and services provided by an operating system.
@@ -54,11 +54,11 @@ Canvas will be used as the class gradebook:
 
 ## Reading Assignments
 
-The textbook provides the foundation of the course, and it will be important for you to absorb it thoroughly.  To encourage regular reading and preparation for class, **you are required to turn in summary notes on the assigned readings each Monday of the semester by 11:59PM Pacific Time**. Notes will not be required on the March 13 (spring break) or April 10 (Easter Monday).  You will upload these notes in Canvas.  The easiest way to do this is just take notes on paper, and then snap a few photos for upload.  If you prefer to type them out, do so and attach a PDF or plain text file.
+The textbook provides the foundation of the course, and it will be important for you to absorb it thoroughly.  To encourage regular reading and preparation for class, **you are required to turn in summary notes on the assigned readings each Monday of the semester by 11:59PM Pacific Time**. Notes will not be required on March 13 (spring break) or April 10 (Easter Monday).  You will upload these notes in Canvas.  The easiest way to do this is just take notes on paper, and then snap a few photos for upload.  If you prefer to type them out, do so and attach a PDF or plain text file.
 
 Your notes can be organized in whatever way is appropriate to that chapter and is useful for you. Good things to include may be an outline of the chapter, definition of key terms, a sketch of the systems or data structures being discussed, _etc._  **As part of your notes, you should submit one thoughtful question you would like to discuss that week**. The prof will try to raise a few of these questions each week as part of lectures.
 
-Grading on notes will be very simple: 1.0, 0.5, or 0.0 points. One assignment with the lowest grade will be dropped for each student (but only one - if you get two 0.0 grades, one of them will still count).  Late submissions (with a Canvas submission time after Monday at 11:59PM Pacific time will earn a maximum of one-half point.
+
 
 ## Attendance
 
@@ -68,7 +68,11 @@ Please refrain from using your laptops for non-class activities, since this [ten
 
 ## Grading
 
-The course grade will be based on reading notes, six programming projects, two homework assignments, an in-class midterm exam (March 9 during class), and a final exam (May 8, 11am-1:00pm). For each assignment, a numeric grade will be assigned. Grades will be made available in Canvas. Projects and homeworks are 60% of the course grade, the chapter notes are 10%, and the midterm and final exams are each worth 15%. At the end of the semester, number grades will be converted to letter grades: 90/80/70 are the cutoffs for A/B/C grades, respectively, with 2% around the cutoffs for minus and plus grades. Thus, B- is 80.0-81.999; B is 82.0-87.999, B+ is 88.0-89.999, and so on. The instructor reserves the right to adjust borderline grades in either direction based on observed trend in performance over time, degree of class participation, and other subjective criteria.
+The course grade will be based on reading notes (10%), six programming projects (45%), two homework assignments (15%), an in-class midterm exam (March 9 during class; 15%), and a final exam (May 8, 11am-1:00pm; 15%).
+
+Grading on reading notes will be very simple: 1.0, 0.5, or 0.0 points per set. One assignment with the lowest grade will be dropped for each student (but only one - if you get two 0.0 grades, one of them will still count).  Late submissions (with a Canvas submission time after Monday at 11:59PM Pacific time) will earn a maximum of one-half point. For each assignment or coding project, a numeric grade will be assigned. 
+
+At the end of the semester, number grades will be converted to letter grades: 90/80/70 are the cutoffs for A/B/C grades, respectively, with 2% around the cutoffs for minus and plus grades. Thus, B- is 80.0-81.999; B is 82.0-87.999, B+ is 88.0-89.999, and so on. The instructor reserves the right to adjust borderline grades in either direction based on observed trend in performance over time, degree of class participation, and other subjective criteria.
 
 If you believe an error has been made in grading any item, please bring it to the attention of the instructor within seven days of receiving it. Factual and clerical errors will of course be cheerfully corrected. After seven days, graded items are final and will not be revisited.
 
