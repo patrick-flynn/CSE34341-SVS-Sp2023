@@ -6,7 +6,7 @@
 
 ## Office Hours (Starting Jan 17th)
 - PF: T & R 3:30-whenever, and by appointment
-- Lu: TBA
+- Lu: T & R 3:30-whenever, and by appointment
 
 
 ## Quick Links
